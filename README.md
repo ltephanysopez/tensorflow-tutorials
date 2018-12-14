@@ -5,7 +5,7 @@ I've directed you, or you've been snooping around my GitHub. In any case, welcom
 
 What to expect from this repo: material and examples of topics including linear regression, polynomial regresssion, logistic regression, basic covnets (deep convolutional neural networks), modern covnets (with batch normalization), autoencoders (denoising and convolutional), and deep residual networks.    
 
-I'm following Kadenze's 'Creative Applications of Deep Learning with TensorFlow' course, along with my own creativity.
+I'm following Kadenze's ['Creative Applications of Deep Learning with TensorFlow' course](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info). 
 
 ## Installation
 
